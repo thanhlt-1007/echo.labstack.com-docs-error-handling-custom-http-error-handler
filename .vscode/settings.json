@@ -1,0 +1,9 @@
+{
+    "go.goroot": "${env:HOME}/.gvm/gos/go1.24.0",
+    "go.formatTool": "gofmt",
+    "go.lintTool": "golangci-lint",
+    "go.lintOnSave": "file",
+    "[go]": {
+        "editor.formatOnSave": true,
+    },
+}
