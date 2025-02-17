@@ -1,0 +1,10 @@
+end_of_line = "cr"
+charset = "utf-8"
+trim_trailing_whitespace = true
+insert_final_newline = true
+root = true
+
+[*.go]
+indent_style = "tab"
+indent_size = 8
+tab_width = 8
